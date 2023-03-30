@@ -1,4 +1,4 @@
-### Face Recognition
+# Face Recognition
 This is a Python-based face recognition system that uses OpenCV and Haar Cascades to detect and recognize faces in real-time video streams. The system is designed to be easy to use and can be integrated into a variety of applications, such as security systems, attendance trackers, or personalized content delivery.
 
 ## Installation
